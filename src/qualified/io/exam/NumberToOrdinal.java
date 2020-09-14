@@ -1,24 +1,7 @@
 package qualified.io.exam;
 
 public class NumberToOrdinal {
-	public static void main(String[] args) {
-
-		System.out.println(numberToOrdinal(0));
-		System.out.println(numberToOrdinal(1));
-
-		System.out.println(numberToOrdinal(2));
-		System.out.println(numberToOrdinal(3));
-		System.out.println(numberToOrdinal(10));
-		System.out.println(numberToOrdinal(11));
-		System.out.println(numberToOrdinal(13));
-		System.out.println(numberToOrdinal(15));
-		System.out.println(numberToOrdinal(20));
-		System.out.println(numberToOrdinal(21));
-		System.out.println(numberToOrdinal(22));
-		System.out.println(numberToOrdinal(23));
-		System.out.println(numberToOrdinal(30));
-		System.out.println(numberToOrdinal(32));
-	}
+	
 
 	public static String numberToOrdinal(Integer number) {
 
